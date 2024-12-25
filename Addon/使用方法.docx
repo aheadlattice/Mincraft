@@ -4,6 +4,8 @@
   找到浏览器下载的xxx.mcaddon文件
 3.长按mcaddon文件并点击更多，点击打开为
   并选择文本选项，勾选Minecraft后并选择
-  仅此一次即可加载Addon
+  仅此一次后即可在Minecraft中加载Addon
+！注意：部分插件后缀名为.mcaddon.zip， 
+       删除.zip后缀并重复3的步骤即可
 ---本方法适用于安卓高版本与鸿蒙用户---
 
